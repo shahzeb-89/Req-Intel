@@ -1,0 +1,18 @@
+Software Requirements Specification
+System: Hospital Appointment Management System v1.0
+
+1. The system shall allow patients to book appointments easily.
+2. The system shall notify doctors about upcoming appointments in a timely manner.
+3. The system shall load patient records fast.
+4. The system shall be secure and protect sensitive medical data.
+5. The system shall support a reasonable number of simultaneous users.
+6. The system shall allow admin to manage doctor schedules efficiently.
+7. The system shall generate appointment summaries for doctors.
+8. The system shall provide appropriate error messages to users.
+9. The system shall be compatible with modern browsers.
+10. The system shall store patient history accurately.
+11. The system shall allow patients to cancel appointments conveniently.
+12. The system shall perform well under normal operating conditions.
+13. The system shall send reminders to patients before their appointment.
+14. The system shall allow doctors to update patient records.
+15. The system shall be maintainable and scalable for future use.

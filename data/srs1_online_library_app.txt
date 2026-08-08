@@ -1,0 +1,18 @@
+Software Requirements Specification
+System: Library Management System v1.0
+
+1. The system shall respond quickly to user requests.
+2. The system shall be easy to use for all library staff.
+3. The system shall handle a large number of concurrent users.
+4. The system shall provide fast search results for book queries.
+5. The system shall securely store all user data.
+6. The system shall allow librarians to issue books to registered members.
+7. The system shall send notifications to users when a book is due.
+8. The system shall generate reports efficiently.
+9. The system shall support multiple user roles including admin and staff.
+10. The system shall be reliable and available at all times.
+11. The system shall allow users to reserve books online.
+12. The system shall process book returns accurately.
+13. The system shall provide a user-friendly interface.
+14. The system shall backup data regularly.
+15. The system shall integrate with the existing university database.
