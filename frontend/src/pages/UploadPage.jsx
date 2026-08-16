@@ -1284,7 +1284,7 @@ export default function UploadPage({ onResults, onShowHistory }) {
               >
                 Supervisor:
               </span>
-              <br /> Ma'am Saima Sipy Nangraj{" "}
+              <br />  Saima Sipy Nangraj{" "}
             </p>
           </div>
         </div>
